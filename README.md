@@ -1,5 +1,7 @@
-![]()  
-  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5f2acbba-bfb2-4a3c-854a-03afc026ccf0" />
+</p>
+
 
 - 🔭 I’m currently working on [Torusware](https://torusware.com/es/)  
   
@@ -7,7 +9,7 @@
 - 🌱 I’m currently learning about AWS, Azure and Terraform  
   
 
-<br/>  
+<br/>
 
 
 ## Connect with me  
