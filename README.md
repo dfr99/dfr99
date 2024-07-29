@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Torusware](https://torusware.com/es/)  
   
 
-- 🌱 I’m currently learning about AWS, Azure and Terraform  
+- 🌱 I’m currently learning about AWS, Azure, Terraform and GitHub
   
 
 <br/>
